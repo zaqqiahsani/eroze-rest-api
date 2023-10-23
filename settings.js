@@ -1,10 +1,10 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.creator = 'ErozeOfc'// yourname
+global.MONGO_DB_URI = "mongodb+srv://rokhisahmad64:k52jlxF9jCQZj1Ub@rokhis.8eihmyf.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.your_email = "erozepedia@gmail.com" //email
+global.email_password = "xfvt lqtn gctr ldnm" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
